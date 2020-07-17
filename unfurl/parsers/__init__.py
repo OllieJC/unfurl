@@ -18,4 +18,5 @@ __all__ = [
     "parse_url",
     "parse_uuid",
     "parse_mailto",
+    "parse_email",
 ]
